@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JimmyJoeHolmes - Jimmy Holmes in real life.
 - 👀 I’m interested in education, literacy, psychology, non-profits, social justice, NFL analytics, data visualization.
-- 🌱 I’m currently learning the basics of Python, R, Tableau, and SQL.
+- 🌱 I’m currently learning the basics of Python, R, Tableau, and SQL. 
+- 👨🏻‍🎓 Completed UMKC Data Analytics Workshop Series in Oct. 2021.
 - 💞️ I’m looking to collaborate on projects where I can combine past expereinces with emerging data skills.
 - 📫 How to reach me - here on GitHub, @JimmyHolmesJr on Twitter, email TBD
 
